@@ -1,0 +1,9 @@
+{
+	"name": "adfdatatransformationwithdataflow",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ae4db9fe-c6b8-485a-a3ac-26754145fa22",
+		"tenantId": "63474290-3700-401b-bc81-f0b095ec8317"
+	}
+}
